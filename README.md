@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chethankumar B M
 - 👀 I’m interested in ...softwere development
-- 🌱 I’m currently learning ...servlets
+- 🌱 I’m currently working as consultant  at symmetric consultancy services
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...chethuchethankumar8@gmail.com
 
